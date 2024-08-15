@@ -27,11 +27,20 @@ El repositorio está organizado en diferentes secciones, cada una correspondient
    - Uso de condiciones `if`, `elif`, y `else` para tomar decisiones en el código.
    - Ejercicios combinados que aplican bucles y condicionales para resolver problemas complejos.
 
-5. **Clases de Repaso**
+5. **Funciones**
+   - Definición y uso de funciones en Python.
+   - Parámetros y valores de retorno.
+   - Ejercicios prácticos que muestran cómo las funciones pueden modularizar y reutilizar el código.
+
+6. **Sentencias de Control**
+   - Control de flujo avanzado utilizando `while`, `break`, `continue` y `pass`.
+   - Ejercicios que demuestran cómo utilizar estas sentencias para manejar el flujo del programa de manera más eficiente.
+     
+7. **Clases de Repaso**
    - Ejercicios adicionales para reforzar los conceptos aprendidos.
    - Resolución de problemas más avanzados que integran múltiples temas.
 
-6. **Ejercicio Intermedio**
+8. **Ejercicio Intermedio**
    - Un ejercicio que combina todos los conceptos vistos hasta el momento, diseñado para poner a prueba el conocimiento adquirido.
 
 ## Herramientas Utilizadas
@@ -48,4 +57,3 @@ El repositorio está organizado en diferentes secciones, cada una correspondient
 ## Conclusión
 
 Este repositorio es una recopilación de los ejercicios que hemos trabajado de forma anticipada a las clases, siguiendo el método de clases invertidas. A través de estos ejercicios, hemos podido adquirir y consolidar conocimientos fundamentales en Python, lo que nos prepara mejor para las clases y para futuras aplicaciones en el análisis de datos.
-
